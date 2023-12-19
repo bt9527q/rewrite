@@ -1,3 +1,6 @@
+^https:\/\/spclient\.wg\.spotify\.com\/color-lyrics\/v2\/track\/ url script-response-body https://raw.githubusercontent.com/bt9527q/rewrite/main/spotify-lyric.js
+
+
 
 const options = {
     appid: '20221008001376175',
